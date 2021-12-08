@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "name": "documentation_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "npx tailwindcss -i ./index.css -o ./tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
